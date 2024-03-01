@@ -1,0 +1,24 @@
+{
+	"name": "namastereact",
+	"version": "1.0.0",
+	"description": "Namaste React learnings@ benoy",
+	"main": "App.js",
+	"scripts": {
+		"test": "jest",
+    "start":"parcel index.html",
+    "build": "parcel build index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/juniorjudy123/NamasteReact-new.git"
+	},
+	"author": "BENOY",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/juniorjudy123/NamasteReact-new/issues"
+	},
+	"homepage": "https://github.com/juniorjudy123/NamasteReact-new#readme",
+	"devDependencies": {
+		"parcel": "^2.11.0"
+	}
+}
